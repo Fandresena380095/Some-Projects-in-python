@@ -6,7 +6,7 @@ Same with sorting objects,etc ...
 
 '''
 
-
+#Verification module
 numbers = [3,6,2,4,3,6,8,9]
 
 for i in range(len(numbers)):
