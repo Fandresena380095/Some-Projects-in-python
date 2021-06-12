@@ -1,5 +1,5 @@
 '''
-Whenever you compare 2 numbers ina list,dictionnary or any kind of
+Whenever you compare 2 numbers in a list,dictionnary or any kind of
 data structures,you need to set two variables
 
 Same with sorting objects,etc ...
