@@ -113,6 +113,7 @@ class CoffeeMachine :
         print(' \               /   |')
         print('  \             /----|')
         print('   \           /')
+        print(".....................")
         print('--------------------')
         
         
