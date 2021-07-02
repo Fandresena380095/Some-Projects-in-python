@@ -1,7 +1,16 @@
-def multiply_two(x):
-    return x *2
+a = int(input("First number : "))
+b = int(input("Second number : "))
+x = int(input("maximum number : "))
 
-def mul2(x):
-    return multiply_two(multiply_two(x))
+c = a+b 
 
-print(mul2(6))
+while c<x:
+    a=b
+    b=c
+    print(b)
+    c = a+b 
+
+
+
+
+    
