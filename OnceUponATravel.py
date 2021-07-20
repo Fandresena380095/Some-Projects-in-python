@@ -1,3 +1,4 @@
+# This is not an optimal way to do this kind of content
 print("Hello there! So nice to have you !")
 name = input("So what is your name ?: ")
 print("Hmmm",name,"....what a beautiful name")
